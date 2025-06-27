@@ -25,9 +25,9 @@ a:hover {
 
 /* Logo Image */
 .logo-img {
-  height: 50px;
-  width: 50px;
-  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  border-radius: 20%;
   object-fit: cover;
   margin-left: 1rem;
   border: 2px solid #0ff;
